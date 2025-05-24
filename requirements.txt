@@ -32,6 +32,7 @@ flask-cors==5.0.1
 fqdn==1.5.1
 gitdb==4.0.12
 GitPython==3.1.44
+gunicorn==23.0.0
 idna==3.4
 ipykernel==6.25.2
 ipython==8.15.0
